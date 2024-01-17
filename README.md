@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @cazacli182
-- 👀 Tenho interesses em Delphi, Pascal, Python, bancos de dados em geral...Tecnologia né?
+- 👀 Tenho interesses em Delphi, Pascal, Python, HTML+CSS+JS, bancos de dados em geral...Tecnologia né?
 - 🌱 Atualmente estou me aprofundando em Delphi e Python, depois irei partir para Javascript ...
 - 💞️ No momento estou colaborando apenas nos meus projetos de estudo mesmo...
 - 📫 Você não me encontra, eu encontro você! Brincadeira!
